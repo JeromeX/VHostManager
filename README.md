@@ -129,7 +129,7 @@ Wichtige Tabellen:
 
 Copyright © 2026 Malte Speck. Alle Rechte vorbehalten.
 
-VHostManager ist eine Eigenentwicklung von Malte Speck. Der Quellcode wird ausschließlich zur öffentlichen Ansicht bereitgestellt.
+VHostManager ist eine Eigenentwicklung von Malte Speck. Der Quellcode wird nicht zur öffentlichen Ansicht bereitgestellt.
 
 Die Nutzung, Vervielfältigung, Veränderung oder Weiterverbreitung des Quellcodes ist ohne vorherige ausdrückliche Genehmigung des Urhebers nicht gestattet, soweit gesetzlich zulässig.
 
