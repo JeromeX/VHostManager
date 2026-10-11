@@ -10,6 +10,15 @@ einer zentralen Weboberfläche. Ziel sind eine klare Übersicht,
 nachvollziehbare Ereignisse und die kontrollierte Verwaltung
 sicherheitsrelevanter Daten.
 
+---
+
+## Screenshots
+### Dashboard
+<img width="2560" height="1440" alt="2026-10-11 22_57_24-VHost Manager und 2 weitere Seiten - Persönlich – Microsoft​ Edge" src="https://github.com/user-attachments/assets/64f0e68c-50b8-4891-8a7e-56dbe1846a06" />
+
+### SCREENSHOTS DES VHOSTMANAGERS
+### MEHR SCREENSHOTS IM ORDNER "SCREENSHOTS"
+
 ## Funktionen
 
 -   **Dashboard** -- zentrale Übersicht über verfügbare Status- und
