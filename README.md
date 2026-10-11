@@ -74,6 +74,16 @@ variieren.
 **VHostManager -- Zugriffe prüfen, Ereignisse nachvollziehen und den
 Hosting-Betrieb kontrolliert verwalten.**
 
+## Urheberrecht und Nutzung
+
+Copyright © 2026 Malte Speck. Alle Rechte vorbehalten.
+
+VHostManager ist eine Eigenentwicklung von Malte Speck. Der Quellcode wird ausschließlich zur öffentlichen Ansicht bereitgestellt.
+
+Die Nutzung, Vervielfältigung, Veränderung oder Weiterverbreitung des Quellcodes ist ohne vorherige ausdrückliche Genehmigung des Urhebers nicht gestattet, soweit gesetzlich zulässig.
+
+**Es wird keine Open-Source-Lizenz erteilt.**
+
 <img width="2560" height="1440" alt="2026-10-11 23_04_05-VHost Manager und 2 weitere Seiten - Persönlich – Microsoft​ Edge" src="https://github.com/user-attachments/assets/2b0078b3-964d-477b-bc8d-c8946c2af241" />
 <img width="2560" height="1440" alt="2026-10-11 23_03_35-VHost Manager und 2 weitere Seiten - Persönlich – Microsoft​ Edge" src="https://github.com/user-attachments/assets/2fe9086b-ac36-401e-8ed1-7dffd25bbd1a" />
 <img width="2560" height="1440" alt="2026-10-11 23_02_57-VHost Manager und 2 weitere Seiten - Persönlich – Microsoft​ Edge" src="https://github.com/user-attachments/assets/bce1c198-044a-4ee7-acac-bdfc43789115" />
