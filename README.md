@@ -54,7 +54,7 @@ Die Screenshots werden direkt aus dem Repository-Ordner [`screenshots/`](https:/
 
 ### Logs
 
-![VHostManager – Logs](screenshots/2026-10-11%2023_06_52-VHost%20Manager%20und%202%20weitere%20Seiten%20-%20Pers%C3%B6nlich%20%E2%80%93%20Microsoft%E2%80%8B%20Edge.png)
+<img width="2560" height="1440" alt="2026-10-11 23_06_52-VHost Manager und 2 weitere Seiten - Persönlich – Microsoft​ Edge" src="https://github.com/user-attachments/assets/69118e68-61bc-433b-8d28-05cb3a72a836" />
 
 ### Einstellungen
 
